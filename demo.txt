@@ -1,2 +1,2 @@
-fisier creat din VS CODE
-fisier modificat din git hub
+fisier creat din VS CODE actualizat
+fisier modificat din git hub actualizat
